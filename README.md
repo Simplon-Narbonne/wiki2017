@@ -119,7 +119,7 @@ Jour 10:
 -------
 * Debugueur Firefox, mode responsive -> Ctrl + Shift + M
 * Addon Atom : Emmet [Vidéo de l'installation fonctionnement](https://www.youtube.com/watch?v=BQurqKG6nGY)  
-    La CheatSheet Emmet : http://docs.emmet.io/cheat-sheet/  
+    La CheatSheet Emmet : http://docs.emmet.io/cheat-sheet/   
 
 __Semaine 3__
 ------
@@ -134,6 +134,6 @@ Jour 12:
 * Exercice sur le tableau de fruits et légumes
 * Lexique
 * Trouver des images en ligne pour votre site ou blog (vérifier que la licence permette l'usage voulu):  
-[https://visualhunt.com/](https://visualhunt.com/)
-[https://unsplash.com/](https://unsplash.com/)
-[D'autres ressources](https://resourcecards.com/free-photography-resources/)
+[https://visualhunt.com/](https://visualhunt.com/)  
+[https://unsplash.com/](https://unsplash.com/)  
+[D'autres ressources](https://resourcecards.com/free-photography-resources/)  

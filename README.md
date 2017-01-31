@@ -40,10 +40,14 @@ Jour 3:
 
 Jour 4:
 ------
+* Faire tout le parcours : [__HTML / CSS sur OpenClassRoom__](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3)
+
+
 * [Les bases de HTML - Mozilla](https://developer.mozilla.org/fr/Apprendre/Commencer_avec_le_web/Les_bases_CSS)
 * [HTML/CSS3 Coda Ales](http://coda-ales.fr/wp-content/uploads/2016/12/tutocss-1.pdf)
 * [HTML 5 Caprio]
-* [HTML / CSS sur OpenClassRoom](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3)
+* Cours de dactylo en ligne, placement des doigts sur le clavier, techniques :
+[http://www.typingstudy.com/fr-french-2/lesson/1/part/2](http://www.typingstudy.com/fr-french-2/lesson/1/part/2)
 * Exercice de dactylo pour tester sa vitesse de frappe :
 * https://10fastfingers.com/typing-test/french
 * http://solodactylo.com/test/  

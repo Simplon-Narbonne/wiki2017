@@ -119,6 +119,7 @@ Jour 10:
 -------
 * Debugueur Firefox, mode responsive -> Ctrl + Shift + M
 * Addon Atom : Emmet [Vidéo de l'installation fonctionnement](https://www.youtube.com/watch?v=BQurqKG6nGY)
+    La CheatSheet Emmet : http://docs.emmet.io/cheat-sheet/
 
 __Semaine 3__
 ------

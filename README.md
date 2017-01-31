@@ -15,7 +15,6 @@ Jour 2 :
     * [Creation d'un compte](https://narbonne.simplon.me/auth/login)
 
     * Openclassroom (demande Prenium)
-    * StackOverflow
 * Présentation de Linux :
      Plus de 300 distributions Linux disponible [QuebecOS](http://quebecos.com/) et [Distrowatch](https://distrowatch.com/)  
      [Présentation d'Ubuntu](https://doc.ubuntu-fr.org/debutant)  

@@ -83,6 +83,10 @@ Jour 7:
 * Terminal:  
 ls -l -> ll  
 ls -l -> la  
+Ctrl + a = revenir au début de la ligne  
+Ctrl + e = aller à la fin de la ligne  
+Flèche du haut = revenir à une commande précédente  
+Ctrl + c = Arrêter une commande ou un programme  
 
 Flexbox
 * Apprendre à l'utiliser en jouant en ligne:  
@@ -113,7 +117,7 @@ Jour 9:
 
 Jour 10:
 -------
-* Debugueur Firefox, mode responsive
+* Debugueur Firefox, mode responsive -> Ctrl + Shift + M
 * Addon Atom : Emmet [Vidéo de l'installation fonctionnement](https://www.youtube.com/watch?v=BQurqKG6nGY)
 
 __Semaine 3__
@@ -127,3 +131,8 @@ Jour 12:
 ------
 * Finir la partie 1 de https://openclassrooms.com/courses/apprenez-a-coder-avec-javascript
 * Exercice sur le tableau de fruits et légumes
+* Lexique
+* Trouver des images en ligne :  
+[https://visualhunt.com/](https://visualhunt.com/)
+[https://unsplash.com/](https://unsplash.com/)
+[D'autres ressources](https://resourcecards.com/free-photography-resources/)

@@ -12,14 +12,15 @@ Jour 2 :
 * Création et prise en main de Slack, Trello, Mypads,...
 
     * Slack (Présentation channels, création du chan Narbonne)
-    * [Creation d'un compte](https://narbonne.simplon.me/auth/login)
+    * [Creation d'un compte sur le board de Narbonne](https://narbonne.simplon.me/auth/login)
 
     * Openclassroom (demande Prenium)
-* Présentation de Linux :
+* Présentation de Linux :  
      Plus de 300 distributions Linux disponible [QuebecOS](http://quebecos.com/) et [Distrowatch](https://distrowatch.com/)  
      [Présentation d'Ubuntu](https://doc.ubuntu-fr.org/debutant)  
      [Introduction au scrum](https://www.dropbox.com/s/do05rqeqikmwim3/scrum.pdf)  
-     Exercice Bash : Créer un dossier sur le bureau, à l'intérieur créer un fichier texte qui contient le texte "Hello simplon" pour voir tous les repetoire taper la commande ls  
+     Exercice Bash :
+     Créer un dossier sur le bureau, à l'intérieur créer un fichier texte qui contient le texte "Hello simplon" pour voir tous les repetoire taper la commande ls  
 
 * Tutoriel de l'éditeur Nano :  
 Installation / Prise en main  
@@ -132,8 +133,10 @@ Jour 12:
 ------
 * Finir la partie 1 de https://openclassrooms.com/courses/apprenez-a-coder-avec-javascript
 * Exercice sur le tableau de fruits et légumes
-* Lexique
 * Trouver des images en ligne pour votre site ou blog (vérifier que la licence permette l'usage voulu):  
 [https://visualhunt.com/](https://visualhunt.com/)  
 [https://unsplash.com/](https://unsplash.com/)  
 [D'autres ressources](https://resourcecards.com/free-photography-resources/)  
+Icones :
+[FontAwesome](http://fontawesome.io/)
+[IconFinder](https://www.iconfinder.com/)

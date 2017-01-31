@@ -132,7 +132,7 @@ Jour 12:
 * Finir la partie 1 de https://openclassrooms.com/courses/apprenez-a-coder-avec-javascript
 * Exercice sur le tableau de fruits et légumes
 * Lexique
-* Trouver des images en ligne :  
+* Trouver des images en ligne pour votre site ou blog (vérifier que la licence permette l'usage voulu):  
 [https://visualhunt.com/](https://visualhunt.com/)
 [https://unsplash.com/](https://unsplash.com/)
 [D'autres ressources](https://resourcecards.com/free-photography-resources/)

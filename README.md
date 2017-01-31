@@ -138,5 +138,5 @@ Jour 12:
 [https://unsplash.com/](https://unsplash.com/)  
 [D'autres ressources](https://resourcecards.com/free-photography-resources/)  
 Icones :
-[FontAwesome](http://fontawesome.io/)
+[FontAwesome](http://fontawesome.io/)  
 [IconFinder](https://www.iconfinder.com/)

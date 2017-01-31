@@ -82,6 +82,12 @@ ls -l -> ll
 ls -l -> la  
 
 Flexbox
+* Apprendre à l'utiliser en jouant en ligne:  
+    [FlexBox Froggy](http://flexboxfroggy.com/#fr)
+    [Flexbox defense](http://www.flexboxdefense.com/)
+
+* L'importance des balises h1, h2,...h5
+    [Explications](http://www.thomascubel.com/balises-h1-h6-seo/)
 
 Jour 8:
 ------
@@ -112,3 +118,8 @@ Jour 11:
 ------
 * [Cours JS](https://openclassrooms.com/courses/apprenez-a-coder-avec-javascript)
 * [Eloquent JS](https://fr.eloquentjavascript.net/contents.html)
+
+Jour 12:
+------
+* Finir la partie 1 de https://openclassrooms.com/courses/apprenez-a-coder-avec-javascript
+* Exercice sur le tableau de fruits et légumes

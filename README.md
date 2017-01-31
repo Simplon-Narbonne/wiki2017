@@ -34,7 +34,7 @@ Jour 3:
 -------
 * cd, ls, mkdir, rmdir, rm , cat, history, apropos, mv, cp  
 * [Challenge jeu commandes bash](https://github.com/Boyquotes/bash_bots)
-* Guide de survie Simplon.pdf  
+* Guide de survie Simplon.pdf ( document épinglé dans le channel #teamnarbonne2017 )
 * CheatSheet Commandes Bash
 
 
@@ -91,7 +91,8 @@ Flexbox
 
 Jour 8:
 ------
-* GIMP : Modification d'une map du jeu hedgewars:  
+* GIMP : Modification d'une map du jeu hedgewars:
+* [Tutoriel de modification d'une map](http://montpel-libre.fr/stock/documents/AtelierJeuxVideo/Hedgewars/HedgewarsTutoriel.pdf) 
 * Utilisation de __sudo updatedb__ pour mettre à jour la base de donnée stockant le nom des répertoires et fichiers contenus sur le système.  
 * Puis utilisation juste après la commande updatedb de la commande __locate__ qui permet de retrouver les fichiers sur le disque:  
 __locate Battlefield__  

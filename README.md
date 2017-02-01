@@ -126,7 +126,7 @@ __Semaine 3__
 ------
 Jour 11:
 ------
-* [Cours JS](https://openclassrooms.com/courses/apprenez-a-coder-avec-javascript)
+* __Aller jusqu'à l'activité : Activity: Créez un mini-jeu de devinette__ [Cours JS](https://openclassrooms.com/courses/apprenez-a-coder-avec-javascript)
 * [Eloquent JS](https://fr.eloquentjavascript.net/contents.html)
 
 Jour 12:

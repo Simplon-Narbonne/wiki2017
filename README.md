@@ -140,3 +140,9 @@ Jour 12:
 Icones :
 [FontAwesome](http://fontawesome.io/)  
 [IconFinder](https://www.iconfinder.com/)
+
+Jour 13:
+------
+DOM:
+[Schéma simplifié du DOM](http://uvu.miketheindian.com/wp-content/uploads/2011/08/html-dom-example.gif)
+[Explication du DOM simplifiée](http://41mag.fr/quest-ce-que-le-dom-dune-page-web.html)

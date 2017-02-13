@@ -36,7 +36,8 @@ Jour 3:
 * [Challenge jeu commandes bash](https://github.com/Boyquotes/bash_bots)
 * Guide de survie Simplon.pdf ( document épinglé dans le channel #teamnarbonne2017 )
 * [CheatSheet Commandes Bash](http://juliend.github.io/linux-cheatsheet/)
-
+* [Cours BASH](http://www.lmd.jussieu.fr/~flott/polytechnique/mec583_08/linux_vi_f77.pdf)
+* [Tutoriel BASH](https://www.tutoriels-video.fr/tutoriel/console/console_partie1_v2.pdf)
 
 Jour 4:
 ------
@@ -148,3 +149,6 @@ DOM:
 [Explication du DOM simplifiée](http://41mag.fr/quest-ce-que-le-dom-dune-page-web.html)  
 [Plongez au coeur du DOM](https://openclassrooms.com/courses/dynamisez-vos-sites-web-avec-javascript/manipuler-le-code-html-partie-1-2)  
 [Addon Firefox pour "voir" et inspecter le DOM](https://addons.mozilla.org/fr/firefox/addon/dom-inspector-6622/)
+
+Jour 14:
+------

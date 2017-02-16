@@ -152,3 +152,69 @@ DOM:
 
 Jour 14:
 ------
+Rappel JS avec Jordan
+* Site pour harmoniser les couleurs
+
+Jour 15:
+------
+* Blog tous le matin pour relater la semaine JS
+* Introduction/Présentation de Jquery
+
+
+__Semaine 4__
+------
+Jour 16:
+------
+Rappel JS avec un exo sur le DOM
+
+Jour 17:
+------
+* Présentaion du projet d'énigmes sur le pays narbonnais
+
+Jour 18:
+------
+* [Intégration HTML à partir du modèle de ce site, à refaire en utilisant uniquement flexbox](http://coda-ales.fr/tutos/)
+
+Jour 19:
+------
+* Preparation d'un mockup et gabarit HTML/CSS pour créer la version numérique du jeu 'dont vous êtes le héros' pour l'atelier de Razimbaud
+
+Jour 20:
+------
+* Journée à Razimbaud avec les enfants pour l'atelier code + histoire dont vous êtes les héros ( Histoire Numérique Interactive )
+
+__Semaine 5__
+------
+Jour 21:
+------
+* Algorithmie sans ordinateur : Algo pour cuire des oeufs de différentes manières, la machine à café et la station essence automatique
+* Lexique : tour de table des différents mots (KISS, YAGNI, DRY, Moscow, apache, ...)
+* Anglais/Français : Traduction collective/collaborative de 3 vidéos TedX sur un pad puis dans des fichiers de sous-titre .srt pour visionner plus tard la vidéo sous-titré en français  
+
+Jour 22:
+------
+* Remise en forme des pages HTML/CSS de l'histoire de vendredi réalisée avec les enfants.
+
+Jour 23:
+------
+* Intervention du parrain Jacques au sujet de l'intégration depuis un design Photoshop vers le HTML/CSS du site minecraft hosting
+* Animation CSS3 : [Coverflow](http://www.css3create.com/Effet-coverflow-en-full-CSS)  
+[Effet Hover sur un menu](http://www.css3create.com/Hover-avec-transitions)  
+[D'autres animations](http://www.css3create.com/+-Les-Animations-+)
+
+Jour 24:
+------
+* Intervention de Julie pour présenter ces prochains cours au CFA, il faudra réaliser un gabarit(bootstrap) pour cela puis lui expliquer comment faire les autres fichiers/cours  
+* Exercice JS pour le combat en JS :  
+* 1er exercice :  
+Sur une page html :  
+Faire une fonction JS qui lorsqu'on clique sur un bouton "Se battre" affiche dans la page HTML(pas dans un console.log) une 1 fois sur 2 soit:  
+"Vous avez perdu"  
+soit  
+"Vous avez gagné puis 4 secondes plus tard une redirection vers une autre page html
+* 2eme exercice:  
+Pareil que le 1er exercice mais seulement on gagne 1 fois sur 4 seulement :  
+quand on perd, sa redirige vers une page fail  
+
+Jour 25:
+------

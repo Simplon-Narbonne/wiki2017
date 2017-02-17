@@ -219,11 +219,11 @@ Récupérer l'élément combat grâce à son id:
 soit avec   
 getElementById('combat') ou $("combat")
 Etape 3 : Ajouter l'événement click sur le bouton combat avec en DOM-2 -> addEventListener ou la fonction click() de Jquery  
-Etape 4 : Sortir un nombre aléatoire: soit 0, soit 1(gagné) à chaque click
-Etape 5 : Si égal à 1 afficher "Vous avez gagné"" et si 0 "Vous avez perdu" dans une div id=resultat
-Etape 6 : Créer un cookie avec vie=20 et afficher la valeur du cookie dans la div id=vie dans le HTML
-Etape 7 : Décrémenter d'une valeur le cookie et afficher dans le HTML sa nouvelle valeur, voir le tutoriel [en anglais](https://www.w3schools.com/js/js_cookies.asp) ou (en français)[http://ppk.developpez.com/tutoriels/javascript/gestion-cookies-javascript/]
-Etape 8 : Quand on gagne, rediriger sur une nouvelle page HTML et y afficher dessus le nombre de vie restante en lisant le contenu du cookie.
+Etape 4 : Sortir un nombre aléatoire: soit 0, soit 1(gagné) à chaque click  
+Etape 5 : Si égal à 1 afficher "Vous avez gagné"" et si 0 "Vous avez perdu" dans une div id=resultat  
+Etape 6 : Créer un cookie avec vie=20 et afficher la valeur du cookie dans la div id=vie dans le HTML  
+Etape 7 : Décrémenter d'une valeur le cookie et afficher dans le HTML sa nouvelle valeur, voir le tutoriel [en anglais](https://www.w3schools.com/js/js_cookies.asp) ou (en français)[http://ppk.developpez.com/tutoriels/javascript/gestion-cookies-javascript/]  
+Etape 8 : Quand on gagne, rediriger sur une nouvelle page HTML et y afficher dessus le nombre de vie restante en lisant le contenu du cookie.  
 
 * 2eme exercice:  
 Pareil que le 1er exercice mais seulement on gagne 1 fois sur 4 seulement à l'étape 4 :  
@@ -232,3 +232,12 @@ quand on perd, sa redirige vers une page fail
 Jour 25:
 ------
 * Regarder le cour openclassroom "Comprendre le web"
+* Configuration de virtualhost avec apache   
+Créez un fichier /etc/apache2/sites-available/blog.conf
+Ajouter la configuration par défaut en regardant le contenu du fichier 000-default.conf  
+Modifier le valeur de ServerName avec votre pseudo slack ou le nom de votre site
+Mettez le bon chemin sur votre système de vers votre site sur la ligne DocumentRoot
+Utilisez la commande apache "a2ensite" pour activer ce nouveau site dans apache  
+a2ensite blog  
+Comme indiquez en retour de la commande ci-dessus : réchargez la configuration d'apache avec la commande "service apache reload" pour que ce nouveau virtualhost soit pris en compte  
+

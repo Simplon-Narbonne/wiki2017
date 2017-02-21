@@ -213,7 +213,7 @@ Faire une fonction JS qui lorsqu'on clique sur un bouton "Se battre" affiche dan
 "Vous avez perdu"  
 soit  
 "Vous avez gagné puis 4 secondes plus tard une redirection vers une autre page html  
-Etape 1 : Créer un bouton dans le fichier html avec un id combat et qui affiche "Se battre"
+Etape 1 : Créer un bouton dans le fichier html avec un id combat et qui affiche "Se battre"  
 Etape 2 : En JS(vanilla) ou jQuery  
 Récupérer l'élément combat grâce à son id:  
 soit avec   
@@ -235,8 +235,8 @@ Jour 25:
 * Configuration de virtualhost avec apache   
 Créez un fichier /etc/apache2/sites-available/blog.conf
 Ajouter la configuration par défaut en regardant le contenu du fichier 000-default.conf  
-Modifier le valeur de ServerName avec votre pseudo slack ou le nom de votre site
-Mettez le bon chemin sur votre système de vers votre site sur la ligne DocumentRoot
+Modifier le valeur de ServerName avec votre pseudo slack ou le nom de votre site  
+Mettez le bon chemin sur votre système de vers votre site sur la ligne DocumentRoot  
 Utilisez la commande apache "a2ensite" pour activer ce nouveau site dans apache  
 a2ensite blog  
 Comme indiquez en retour de la commande ci-dessus : réchargez la configuration d'apache avec la commande "service apache reload" pour que ce nouveau virtualhost soit pris en compte  

@@ -240,4 +240,8 @@ Mettez le bon chemin sur votre système de vers votre site sur la ligne Document
 Utilisez la commande apache "a2ensite" pour activer ce nouveau site dans apache  
 a2ensite blog  
 Comme indiquez en retour de la commande ci-dessus : réchargez la configuration d'apache avec la commande "service apache reload" pour que ce nouveau virtualhost soit pris en compte  
-
+* Pour ne pas lister le contenu du répertoire web il faut configurer le virtualhost en ajoutant au fichier blog.conf l'option Indexes précédé d'un -  
+<Directory /usr/local/apache2/htdocs/dontlistme>  
+  Options -Indexes  
+</Directory>  
+[Tutoriel pour le listing des fichiers/dossiers(en US)](https://wiki.apache.org/httpd/DirectoryListings)  

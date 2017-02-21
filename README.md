@@ -245,3 +245,6 @@ Comme indiquez en retour de la commande ci-dessus : réchargez la configuration 
   Options -Indexes  
 </Directory>  
 [Tutoriel pour le listing des fichiers/dossiers(en US)](https://wiki.apache.org/httpd/DirectoryListings)  
+
+Jour 26:
+------

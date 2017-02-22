@@ -1,7 +1,7 @@
 Jour 1
 -------
-* Ice breaking (petit papier avec nom prenom, notre présentation et leur présentation en pair presentation )
-Gamifier les présentations par binôme
+* Ice breaking (petit papier avec nom prenom, notre présentation et leur présentation en pair presentation )  
+Gamifier les présentations par binôme  
 
 * Installation d'Ubuntu 16.04
 * [La console ça se mange](https://openclassrooms.com/courses/reprenez-le-controle-a-l-aide-de-linux/la-console-ca-se-mange)  

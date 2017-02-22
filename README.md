@@ -248,3 +248,5 @@ Comme indiquez en retour de la commande ci-dessus : réchargez la configuration 
 
 Jour 26:
 ------
+* Correction exercice JS combat
+* Suite virtualHost sous apache et fichier /etc/hosts

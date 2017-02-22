@@ -250,3 +250,4 @@ Jour 26:
 ------
 * Correction exercice JS combat
 * Suite virtualHost sous apache et fichier /etc/hosts
+* Travail sur les gabarits avec Bootstrap

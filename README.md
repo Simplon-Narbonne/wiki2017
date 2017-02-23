@@ -248,7 +248,26 @@ Comme indiquez en retour de la commande ci-dessus : réchargez la configuration 
 
 Jour 26:
 ------
-* Correction exercice JS combat
-* Suite virtualHost sous apache et fichier /etc/hosts
+* Correction exercice JS combat  
+* Suite virtualHost sous apache et fichier /etc/hosts  
 * Travail sur les gabarits avec Bootstrap  
-* Fin histoire dont vous etes le heros
+* Fin histoire dont vous etes le heros  
+
+Jour 27:
+------
+* [La vidéo d'introduction à git, regarder seulement jusqu'à 36 minnutes](https://www.youtube.com/watch?v=V6Zo68uQPqE)
+* [La CheatSheet FR](http://rogerdudler.github.io/git-guide/index.fr.html)  
+# Créer et se déplacer dans un nouveau dossier dans /var/www/html/  
+mkdir projet_versionner  
+cd projet_versionner# Initialiser le projet avec Git  
+git init  
+# Vérifier le status  
+git status  
+# Ajouter le premier fichier (modifié avec nano par exemple)  
+git add index.html  
+git status  
+# Le fichier est maintenant ajouté dans la zone de stage mais pas encore validé  
+# Git commit pour valider ces changements  
+git commit -m "Un message de commit clair"  
+#Commande pour voir l'historique de vos commits:  
+git log  

@@ -253,10 +253,14 @@ Jour 26:
 * Travail sur les gabarits avec Bootstrap  
 * Fin histoire dont vous etes le heros  
 
-Jour 27:
-------
-* [La vidéo d'introduction à git, regarder seulement jusqu'à 36 minnutes](https://www.youtube.com/watch?v=V6Zo68uQPqE)
-* [La CheatSheet FR](http://rogerdudler.github.io/git-guide/index.fr.html)  
+Jour 27:  
+------  
+* [La vidéo d'introduction à git, regarder seulement jusqu'à 36 minnutes](https://www.youtube.com/watch?v=V6Zo68uQPqE)  
+* [La CheatSheet FR](http://rogerdudler.github.io/git-guide/index.fr.html)
+* Installer git "apt install git"
+#Configurer git avec votre nom d'user et votre mail
+git config --global user.name "MON_USER"
+git config --global user.email "MON_EMAIL@DOMAINE.fr"
 # Créer et se déplacer dans un nouveau dossier dans /var/www/html/  
 mkdir projet_versionner  
 cd projet_versionner# Initialiser le projet avec Git  
@@ -271,3 +275,10 @@ git status
 git commit -m "Un message de commit clair"  
 #Commande pour voir l'historique de vos commits:  
 git log  
+
+Jour 28:  
+------  
+* Reprise de git (add, commit, branch)   
+* Présentation de FTP avec Filezilla pour l'upload de l'histoire de l'atelier des enfants  
+* SSH avec les raspberry  
+* [Activité / Jeu SSH](http://overthewire.org/wargames/bandit/)  

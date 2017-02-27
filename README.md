@@ -282,3 +282,4 @@ Jour 28:
 * Présentation de FTP avec Filezilla pour l'upload de l'histoire de l'atelier des enfants  
 * SSH avec les raspberry  
 * [Activité / Jeu SSH](http://overthewire.org/wargames/bandit/)  
+* Mise en place du planning de la semaine suivante

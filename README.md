@@ -1,3 +1,6 @@
+LE WIKI A JOUR EST LA BAS:
+[https://github.com/simplonco/WikiDev)(https://github.com/simplonco/WikiDev)
+
 Jour 1
 -------
 * Ice breaking (petit papier avec nom prenom, notre présentation et leur présentation en pair presentation )  

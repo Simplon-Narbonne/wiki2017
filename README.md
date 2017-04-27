@@ -1,5 +1,5 @@
 LE WIKI A JOUR EST LA BAS:
-[https://github.com/simplonco/WikiDev)(https://github.com/simplonco/WikiDev)
+[https://github.com/simplonco/WikiDev](https://github.com/simplonco/WikiDev)
 
 Jour 1
 -------
